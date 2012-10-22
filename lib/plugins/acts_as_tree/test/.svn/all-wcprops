@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10366/branches/2.1-stable/lib/plugins/acts_as_tree/test
+END
+schema.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10366/branches/2.1-stable/lib/plugins/acts_as_tree/test/schema.rb
+END
+abstract_unit.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10366/branches/2.1-stable/lib/plugins/acts_as_tree/test/abstract_unit.rb
+END
+database.yml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10366/branches/2.1-stable/lib/plugins/acts_as_tree/test/database.yml
+END
+acts_as_tree_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10366/branches/2.1-stable/lib/plugins/acts_as_tree/test/acts_as_tree_test.rb
+END

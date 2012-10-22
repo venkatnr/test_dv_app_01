@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10366/branches/2.1-stable/public/stylesheets
+END
+jstoolbar.css
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10366/branches/2.1-stable/public/stylesheets/jstoolbar.css
+END
+rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10366/branches/2.1-stable/public/stylesheets/rtl.css
+END
+scm.css
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10366/branches/2.1-stable/public/stylesheets/scm.css
+END
+application.css
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10366/branches/2.1-stable/public/stylesheets/application.css
+END
+context_menu.css
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10366/branches/2.1-stable/public/stylesheets/context_menu.css
+END
+context_menu_rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10366/branches/2.1-stable/public/stylesheets/context_menu_rtl.css
+END

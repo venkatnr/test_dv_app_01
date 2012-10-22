@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10536/branches/2.1-stable/lib
+END
+diff.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10366/branches/2.1-stable/lib/diff.rb
+END
+redmine.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10366/branches/2.1-stable/lib/redmine.rb
+END
+redcloth3.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10366/branches/2.1-stable/lib/redcloth3.rb
+END

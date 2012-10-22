@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10536/branches/2.1-stable/doc
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10536/branches/2.1-stable/doc/CHANGELOG
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10366/branches/2.1-stable/doc/COPYING
+END
+UPGRADING
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10366/branches/2.1-stable/doc/UPGRADING
+END
+RUNNING_TESTS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10366/branches/2.1-stable/doc/RUNNING_TESTS
+END
+README_FOR_APP
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10366/branches/2.1-stable/doc/README_FOR_APP
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10392/branches/2.1-stable/doc/INSTALL
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10366/branches/2.1-stable/lib/plugins/open_id_authentication/lib/open_id_authentication
+END
+association.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/10366/branches/2.1-stable/lib/plugins/open_id_authentication/lib/open_id_authentication/association.rb
+END
+mem_cache_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/10366/branches/2.1-stable/lib/plugins/open_id_authentication/lib/open_id_authentication/mem_cache_store.rb
+END
+db_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/10366/branches/2.1-stable/lib/plugins/open_id_authentication/lib/open_id_authentication/db_store.rb
+END
+nonce.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10366/branches/2.1-stable/lib/plugins/open_id_authentication/lib/open_id_authentication/nonce.rb
+END
+timeout_fixes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/10366/branches/2.1-stable/lib/plugins/open_id_authentication/lib/open_id_authentication/timeout_fixes.rb
+END
+request.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/10366/branches/2.1-stable/lib/plugins/open_id_authentication/lib/open_id_authentication/request.rb
+END

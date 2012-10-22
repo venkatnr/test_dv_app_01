@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10366/branches/2.1-stable/app/views/context_menus
+END
+issues.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10366/branches/2.1-stable/app/views/context_menus/issues.html.erb
+END
+time_entries.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10366/branches/2.1-stable/app/views/context_menus/time_entries.html.erb
+END
